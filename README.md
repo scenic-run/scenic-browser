@@ -1,2 +1,2 @@
-# scenic-browser
-An app where people share scenic walking and running routes
+# Scenic
+An app where people share and rate scenic walking and running routes
